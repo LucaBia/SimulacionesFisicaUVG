@@ -1,0 +1,28 @@
+*** TIRO PARABÓLICO ***
+
+Cristopher Barrios
+Douglas de León
+Luis Pedro Cuéllar
+
+--- MANUAL DE USO: ---
+
+PARA PODER CORRER:
+Para poder correr la simulacion, se tiene que meter a la carpeta que se llama FisicaFinal y luego ejecutar la aplicacion
+que se llama PROYECTO-FISICA2. Una vez se ejecute esta aplicacion, seguir las instrucciones de uso.
+
+INSTRUCCIONES DE USO:
+Esta simulación emula el tiro parabólico.
+Se puede editar la altura con la que se tira el proyectil, la velocidad
+inicial con la que sale el proyectil y el ángulo con el que es lanzado.
+
+Para editar o cambiar los datos que pueden hacer variar el alcance uno tiene que hacer
+click en los espacios e ingresar los datos. Luego se tiene que apachar el botón que dice
+"EMPEZAR". 
+
+Luego de apachar este botón el proyectil saldrá y emulará el tiro parabólico. Dejando por 5 segundos
+la trayectoria del proyectil. En la pantalla se encuentran textos que muestran la velocidad en "x" y en "y",
+el alcance que tiene la bala con respecto con su punto de salida, y la altura con la que ha salido el proyectil. 
+
+Cuando el proyectil está en el aire uno puede apachar el botón "escape" en el teclado y esto lo que hará será que 
+pausará el movimiento y se podrá observar en cualquier punto. Para reanudar el movimiento solo se tiene que apachar otra vez "escape"
+y continuará el movimiento. 
